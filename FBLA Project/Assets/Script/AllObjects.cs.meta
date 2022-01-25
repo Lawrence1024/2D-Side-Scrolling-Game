@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 808c6d31243d80547ba51a9bec489746
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainCamera: {instanceID: 0}
+  - LevelLoader: {instanceID: 0}
+  - gCanvas: {instanceID: 0}
+  - notEnoughCanvas: {instanceID: 0}
+  - rulesCanvas: {instanceID: 0}
+  - explinationCanvas: {instanceID: 0}
+  - settingsCanvas: {instanceID: 0}
+  - qCanvas: {instanceID: 0}
+  - EndLevelCanvas: {instanceID: 0}
+  - ToryphyCanvas: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
